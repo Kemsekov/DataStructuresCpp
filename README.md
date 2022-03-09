@@ -1,2 +1,2 @@
 # DataStructuresCpp
-Here I create from scrath some data structures in c++
+Here I create from scratch some data structures in c++
